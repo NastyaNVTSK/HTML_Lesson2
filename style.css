@@ -1,0 +1,31 @@
+.link_style{
+    text-decoration: none;
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.title{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: 7D7987;
+}
+
+.subtitle{
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
+
+/* Имелся заголовок формата h4, в ТЗ не было заданий для него, добавила по своему вкусу*/
+.desc{
+    color: #2F4F4F;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 25px;
+}
